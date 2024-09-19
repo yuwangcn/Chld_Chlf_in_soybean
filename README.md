@@ -42,7 +42,7 @@ Photon fluxes in different wavelengths at each leaf piece was predicted using a 
 
 Song Q, Zhang G, Zhu X-G. 2013. Optimal crop canopy architecture to maximise canopy photosynthetic CO2 uptake under elevated CO2- a theoretical study using a mechanistic model of canopy photosynthesis. Functional Plant Biology 40, 109–124.
 
-**Input soybean canopy: **
+**Input soybean canopy:**
 
 V231_rep1.txt
 
