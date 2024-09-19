@@ -1,0 +1,23 @@
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_R.txt -t 0.08 -r 0.08 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_B.txt -t 0.06 -r 0.06 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_G.txt -t 0.15 -r 0.15 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F45.txt -t 0.45 -r 0.45 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F4.txt -t 0.4 -r 0.4 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F35.txt -t 0.35 -r 0.35 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F3.txt -t 0.3 -r 0.3 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F25.txt -t 0.25 -r 0.25 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F2.txt -t 0.2 -r 0.2 -s 0
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1.txt -o PPFD_V231_F1.txt -t 0.1 -r 0.1 -s 0
+
+
+.\fastTracerV1.22.exe -D -15 105 -76 190 0 100 -L 40.1 -A 0.8 -d 231 -W 6 1 18 -n 0.1 -m V231_rep1_NIRR_En_2.txt -o PPFD_V231_NIRR_En_2.txt -s 0
+
