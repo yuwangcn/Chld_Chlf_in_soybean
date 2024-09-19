@@ -17,8 +17,10 @@ Software
 ---
 Simulations were conducted in MATLAB 2019 (Mathworks, https://uk.mathworks.com).
 
+
+
 Step 1   Reconstruct a soybean canopy 
----
+===
 Open matlab
 
 Change the work path to the SoyCanopy folder
@@ -35,7 +37,7 @@ Song, Q. F., Srinivasan, V., Long, S. P. & Zhu, X. G. Decomposition analysis on 
 Wang, Y., Burgess, S. J., de Becker, E. M. & Long, S. H. P. Photosynthesis in the fleeting shadows: an overlooked opportunity for increasing crop productivity? Plant Journal 101, 874-884 (2020).
 
 Step 2   Simulate the light distribution in the soybean canopy
----
+===
 Photon fluxes in different wavelengths at each leaf piece was predicted using a forward ray-tracing algorithm (FastTracer, https://github.com/PlantSystemsBiology/fastTracerPublic)
 
 **Reference**
@@ -55,7 +57,7 @@ light profile with different leaf transmittance and reflectance settings (Check 
 PPFD_V231_*.txt
 
 Step 3   Canopy photosynthesis estimation
----
+===
 **3.1**
 
 The leaf photosynthesis and transpiration were estimated by a leaf energy balance module (Drewry, et al., 2010)
