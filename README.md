@@ -21,6 +21,12 @@ Simulations were conducted in MATLAB 2019 (Mathworks, https://uk.mathworks.com).
 
 Step 1   Reconstruct a soybean canopy 
 ===
+**Folder**
+
+SoyCanopy
+
+**Run**
+
 Open matlab
 
 Change the work path to the SoyCanopy folder
@@ -40,9 +46,17 @@ Step 2   Simulate the light distribution in the soybean canopy
 ===
 Photon fluxes in different wavelengths at each leaf piece was predicted using a forward ray-tracing algorithm (FastTracer, https://github.com/PlantSystemsBiology/fastTracerPublic)
 
-**Reference**
+**Folder**
 
-Song Q, Zhang G, Zhu X-G. 2013. Optimal crop canopy architecture to maximise canopy photosynthetic CO2 uptake under elevated CO2- a theoretical study using a mechanistic model of canopy photosynthesis. Functional Plant Biology 40, 109–124.
+FastTracer
+
+**Run**
+
+Open Windows PowerShell
+
+Change the work path to the FastTracer folder
+
+Commands can be find in 'Sim.txt'
 
 **Input soybean canopy:**
 
@@ -56,11 +70,23 @@ light profile with different leaf transmittance and reflectance settings (Check 
 
 PPFD_V231_*.txt
 
+**Reference**
+
+Song Q, Zhang G, Zhu X-G. 2013. Optimal crop canopy architecture to maximise canopy photosynthetic CO2 uptake under elevated CO2- a theoretical study using a mechanistic model of canopy photosynthesis. Functional Plant Biology 40, 109–124.
+
+
 Step 3   Canopy photosynthesis estimation
 ===
+
+**Folder**
+
+CanopyPhotosynhesis
+
 **3.1**
 
 The leaf photosynthesis and transpiration were estimated by a leaf energy balance module (Drewry, et al., 2010)
+
+**Run**
 
 Use' CalPhotosynthesis_*.m' to run the simulations for each leaf transmittance and reflectance setting
 
@@ -76,6 +102,8 @@ Use' CalPhotosynthesis_*.m' to run the simulations for each leaf transmittance a
 **3.2**
 
 Net canopy CO2 assimilation was calculated by summing the A of all leaf pieces over the daylight hours.
+
+**Run**
 
 Use 'CanopyAT_*.m' to calculate the canopy CO2 uptake, light absorption, and generate figures.
 
