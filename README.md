@@ -30,11 +30,11 @@ SoyCanopy
 
 **Run**
 
-Open matlab
+1) Open matlab
 
-Change the work path to the SoyCanopy folder
+2) Change the work path to the SoyCanopy folder
 
-Run SoybeanCanopy('M_mean.txt', 'M_Vx.txt', 231, 1, true) in the command window
+3) Run SoybeanCanopy('M_mean.txt', 'M_Vx.txt', 231, 1, true) in the command window
 
 **Output**
 
@@ -60,11 +60,11 @@ FastTracer
 
 **Run**
 
-Open Windows PowerShell
+1) Open Windows PowerShell
 
-Change the work path to the FastTracer folder
+2) Change the work path to the FastTracer folder
 
-Commands can be find in 'Sim.txt'
+3) Commands can be find in 'Sim.txt'
 
 **Input soybean canopy:**
 
@@ -101,11 +101,12 @@ The leaf photosynthesis and transpiration were estimated by a leaf energy balanc
 **Run**
 
 Use' CalPhotosynthesis_*.m' to run the simulations for each leaf transmittance and reflectance setting
+
 for example:
 
 1) Open matlab
 
-2) Change the work path to the SoyCanopy folder
+2) Change the work path to the CanopyPhotosynhesis folder
 
 3) Run 'CalPhotosynthesis_chld_con.m' in the command window
 
