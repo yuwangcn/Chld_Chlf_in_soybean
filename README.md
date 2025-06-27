@@ -101,6 +101,13 @@ The leaf photosynthesis and transpiration were estimated by a leaf energy balanc
 **Run**
 
 Use' CalPhotosynthesis_*.m' to run the simulations for each leaf transmittance and reflectance setting
+for example:
+
+1) Open matlab
+
+2) Change the work path to the SoyCanopy folder
+
+3) Run 'CalPhotosynthesis_chld_con.m' in the command window
 
 **Input:** 
 
