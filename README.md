@@ -38,6 +38,7 @@ Run SoybeanCanopy('M_mean.txt', 'M_Vx.txt', 231, 1, true) in the command window
 CM_V231_rep1_M_mean.txt
 
 **RUN Time**
+
 about 1-5 mins
 
 
@@ -129,6 +130,7 @@ Use 'CanopyAT_*.m' to calculate the canopy CO2 uptake, light absorption, and gen
 All the data from 'CanopyAT_* outA,txt', 'CanopyAT_* outPAR,txt' has been organized and documened in 'Results_all_2404.elsx'
 
 **RUN Time**
+
 about 10 mins
 
 **Reference** 
