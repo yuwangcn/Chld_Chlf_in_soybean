@@ -11,12 +11,12 @@ Yu Wang - https://github.com/yuwangcn
 
 Reference
 ---
-Wang Y., Oliver T. J., Croce R., Long S. P., Addition of longer wavelength absorbing chlorophylls into crops could increase their photosynthetic productivity up to 26%. A theoretical evaluation. (2024)
+Wang Y., Oliver T. J., Croce R., Long S. P., Addition of longer wavelength absorbing chlorophylls into crops could increase their photosynthetic productivity up to 26%. A theoretical evaluation. (2025)
 
 Software
 ---
-Simulations were conducted in MATLAB 2019 (Mathworks, https://uk.mathworks.com).
-
+Simulations were conducted in MATLAB 2019a (Mathworks, , Inc., Natick, MA, USA.https://uk.mathworks.com)on a Windows-based system
+Users must have MATLAB (R2019a or a later release) installed to utilize the provided code.
 
 
 Step 1   Reconstruct a soybean canopy 
@@ -36,6 +36,10 @@ Run SoybeanCanopy('M_mean.txt', 'M_Vx.txt', 231, 1, true) in the command window
 **Output**
 
 CM_V231_rep1_M_mean.txt
+
+**RUN Time**
+about 1-5 mins
+
 
 **References**
 
@@ -69,6 +73,10 @@ V231_rep1.txt
 light profile with different leaf transmittance and reflectance settings (Check the 'Sim.txt' for simulation details)
 
 PPFD_V231_*.txt
+
+**RUN Time**
+
+about about 5 hours (time changes with the different transmittance and reflectance settings)
 
 **Reference**
 
@@ -119,6 +127,9 @@ Use 'CanopyAT_*.m' to calculate the canopy CO2 uptake, light absorption, and gen
 **3.3**
 
 All the data from 'CanopyAT_* outA,txt', 'CanopyAT_* outPAR,txt' has been organized and documened in 'Results_all_2404.elsx'
+
+**RUN Time**
+about 10 mins
 
 **Reference** 
 
