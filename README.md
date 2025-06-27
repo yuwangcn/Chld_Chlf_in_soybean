@@ -15,8 +15,11 @@ Wang Y., Oliver T. J., Croce R., Long S. P., Addition of longer wavelength absor
 
 Software
 ---
-Simulations were conducted in MATLAB 2019a (Mathworks, , Inc., Natick, MA, USA.https://uk.mathworks.com)on a Windows-based system
+Simulations were conducted in MATLAB 2019a (Mathworks, , Inc., Natick, MA, USA.https://uk.mathworks.com) on a Windows-based system
+
 Users must have MATLAB (R2019a or a later release) installed to utilize the provided code.
+
+No non-standard hardware required.
 
 
 Step 1   Reconstruct a soybean canopy 
